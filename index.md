@@ -34,9 +34,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ```html
 <html>
-  [HTML]https://github.com/caemillan/MMlluvias/blob/master/mapa.html
 </html>
 ```  
-[HTML] (https://github.com/caemillan/MMlluvias/blob/master/mapa.html)
+[HTML](https://raw.githubusercontent.com/caemillan/MMlluvias/master/mapa.html)
 
-https://raw.githubusercontent.com/caemillan/MMlluvias/master/mapa.html
