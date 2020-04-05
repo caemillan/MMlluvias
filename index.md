@@ -36,5 +36,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 <html>
 </html>
 ```  
+library(leaflet)
+pal <- colorQuantile("YlOrRd", NULL, n = 8)
+leaflet(orstationc) %>% 
+  addTiles() %>%
+  addCircleMarkers(color = ~pal(tann))
 
 123
